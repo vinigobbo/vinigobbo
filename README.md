@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi, my name is Vinicius.
+- 🚀 I seek to develop my programming skills, focusing on software development, data, and artificial intelligence, creating practical projects and constantly evolving as a developer.
+- 🌱 I am studying computer engineering - 1st semester.
+- 📫 Contact: vinicgobbo@gmail.com
+- 😄 Pronouns: he/him
 
-<!--
-**vinigobbo/vinigobbo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ ##
+ 
+<div>
+<img src="https://skillicons.dev/icons?i=c,python,&theme=dark" />
+</div>
 
-Here are some ideas to get you started:
+##
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <a href="https://instagram.com/vini_gobbo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/vinicius-gobbo-25188b35b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
