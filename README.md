@@ -1,6 +1,6 @@
 ## Hi, my name is Vinicius.
 - 🚀 I seek to develop my programming skills, focusing on software development, data, and artificial intelligence, creating practical projects and constantly evolving as a developer.
-- 🌱 I am studying computer engineering - 1st semester.
+- 📚 I am studying computer engineering - 1st semester.
 - 📫 Contact: vinicgobbo@gmail.com
 
  ##
