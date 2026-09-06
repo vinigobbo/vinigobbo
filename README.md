@@ -6,7 +6,7 @@
  ##
  
 <div>
-<img src="https://skillicons.dev/icons?i=c,javascript,python,visualstudio,react,kotlin,&theme=dark" />
+<img src="https://skillicons.dev/icons?i=c,javascript,python,claude,react,kotlin,&theme=dark" />
 </div>
 
 ##
