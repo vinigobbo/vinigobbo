@@ -3,13 +3,13 @@
 - 📚 I'm studying computer engineering - 2st semester.
 - 📫 Contact: vinicgobbo@gmail.com
 
- ##
  
+## Work tools
 <div>
 <img src="https://skillicons.dev/icons?i=c,typescript,javascript,python,react,kotlin,&theme=dark" />
 </div>
 
-##
+## Social Media
 
 <div>
   <a href="https://instagram.com/vini_gobbo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
