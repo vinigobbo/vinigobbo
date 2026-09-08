@@ -9,7 +9,7 @@
 <img src="https://skillicons.dev/icons?i=c,typescript,javascript,python,react,kotlin,&theme=dark" />
 </div>
 
-![Top Langs](https://github-readme-stats-gobbo1.vercel.app/api/top-langs/?username=vinigobbo&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats-gobbo1.vercel.app/api/top-langs/?username=vinigobbo&layout=compact&theme=dark&v=1)
 
 <div>
  
