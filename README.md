@@ -9,8 +9,10 @@
 <img src="https://skillicons.dev/icons?i=c,typescript,javascript,python,react,kotlin,&theme=dark" />
 </div>
 
-## Social Media
+![Top Langs](https://github-readme-stats-gobbo1.vercel.app/api/top-langs/?username=vinigobbo&layout=compact&theme=dark)
 
+<div>
+## Social Media
 <div>
   <a href="https://instagram.com/vini_gobbo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/viniciusgobbo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
