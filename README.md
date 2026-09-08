@@ -6,13 +6,18 @@
  
 ## Work tools
 <div>
-<img src="https://skillicons.dev/icons?i=c,typescript,javascript,python,react,kotlin,&theme=dark" />
-</div>
-
-![Top Langs](https://github-readme-stats-gobbo1.vercel.app/api/top-langs/?username=vinigobbo&layout=compact&theme=dark&v=1)
-
-<div>
  
+<table>
+  <tr>
+    <td valign="top">
+      <img src="https://skillicons.dev/icons?i=c,ts,js,python,react,kotlin" alt="Work tools"/>
+    </td>
+    <td valign="top">
+      <img src="https://github-readme-stats-gobbo1.vercel.app/api/top-langs/?username=vinigobbo&layout=compact&theme=dark" alt="Top Langs"/>
+    </td>
+  </tr>
+</table>
+
 ## Social Media
 <div>
   <a href="https://instagram.com/vini_gobbo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
