@@ -13,7 +13,7 @@
       <img src="https://skillicons.dev/icons?i=c,ts,js,python,react,kotlin,nodejs" alt="Work tools"/>
     </td>
     <td valign="top">
-      <img src="https://github-readme-stats-gobbo1.vercel.app/api/top-langs/?username=vinigobbo&layout=compact&theme=dark" alt="Top Langs"/>
+      <img src="https://github-readme-stats-gobbo1.vercel.app/api/top-langs/?username=vinigobbo&layout=compact&theme=dark&v=2" alt="Top Langs"/>
     </td>
   </tr>
 </table>
