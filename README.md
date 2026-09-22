@@ -14,7 +14,7 @@
 <table>
   <tr>
     <td valign="top">
-      <img src="https://skillicons.dev/icons?i=html,js,ts,c,react,nodejs,supabase,nextjs," alt="Work tools"/>
+      <img src="https://skillicons.dev/icons?i=html,js,ts,c,react,nodejs,supabase,nextjs,postgresql" alt="Work tools"/>
     </td>
     <td valign="top">
       <img src="https://github-readme-stats-gobbo1.vercel.app/api/top-langs/?username=vinigobbo&layout=compact&theme=dark&v14" alt="Top Langs"/>
