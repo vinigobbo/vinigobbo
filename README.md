@@ -17,7 +17,7 @@
       <img src="https://skillicons.dev/icons?i=html,js,ts,c,react,nodejs,supabase,nextjs,postgresql" alt="Work tools"/>
     </td>
     <td valign="top">
-      <img src="https://github-readme-stats-gobbo1.vercel.app/api/top-langs/?username=vinigobbo&layout=compact&theme=dark&v19" alt="Top Langs"/>
+      <img src="https://github-readme-stats-gobbo1.vercel.app/api/top-langs/?username=vinigobbo&layout=compact&theme=dark&v20" alt="Top Langs"/>
     </td>
   </tr>
 </table>
