@@ -1,6 +1,6 @@
 ## Hi, my name is Vinicius.
 - 🚀 Studying to develop my programming skills, focusing on software development, data, and AI. While building practical projects and constantly growing as a developer and computer engineer.
-- 📚 I'm studying computer engineering - 2st semester.
+- 📚 I'm studying computer engineering - 2nd semester.
 - 📫 Contact: vinicgobbo@gmail.com
   
 <a href="https://instagram.com/vini_gobbo" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
