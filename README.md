@@ -14,10 +14,10 @@
 <table>
   <tr>
     <td valign="top">
-      <img src="https://skillicons.dev/icons?i=html,js,ts,css,c,postgresql,python" alt="Work tools"/>
+      <img src="https://skillicons.dev/icons?i=html,js,ts,css,c,postgresql,python,supabase" alt="Work tools"/>
     </td>
     <td valign="top">
-      <img src="https://github-readme-stats-gobbo1.vercel.app/api/top-langs/?username=vinigobbo&layout=compact&theme=dark&v30" alt="Top Langs"/>
+      <img src="https://github-readme-stats-gobbo1.vercel.app/api/top-langs/?username=vinigobbo&layout=compact&theme=dark&v31" alt="Top Langs"/>
     </td>
   </tr>
 </table>
