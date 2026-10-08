@@ -22,4 +22,4 @@
   </tr>
 </table>
 
-<!-- nodejs, nextjs, notion, supabase, kotlin  v32 -->
+<!-- nodejs, nextjs, notion, supabase, kotlin  v33 -->
